@@ -10,7 +10,7 @@ variable "registry_user" {
 
 variable "registry_password" {
   type    = any
-  default = "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"
+  default = ""
 }
 
 variable "registry_server" {
